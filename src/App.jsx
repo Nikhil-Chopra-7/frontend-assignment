@@ -1,7 +1,12 @@
 import "./App.css";
+import Funds from "./Components/Funds";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <Funds />
+    </>
+  );
 }
 
 export default App;
